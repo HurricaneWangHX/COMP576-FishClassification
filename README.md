@@ -1,5 +1,5 @@
 # COMP576-FishClassification
-Team members: 
+Team members:  
 Haixiao Wang hw68, 
 Xilin Song xs20, 
 Yuanhao Dong yd40, 
